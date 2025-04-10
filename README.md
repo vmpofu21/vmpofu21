@@ -2,7 +2,9 @@
 
 <p>College Student/Aspiring Human-Computer Interaction Researcher</p>
 
-<p>I'm a Computer Science major with a minor in Data Science. My journey in technology has been fueled by a profound interest in the intersection of Human-Computer Interaction and Artificial Intelligence. My future goal is to leverage cutting-edge technologies to create innovative solutions that enhance the way humans interact with computers. I am particularly fascinated by how AI can be integrated into everyday devices to make them more intuitive and user-friendly. Through my studies and projects, I aim to contribute to the development of smarter, more accessible technology for all.</p>
+<p>I’m a Computer Science student with a strong foundation in programming, statistics, and data analysis. I enjoy working with real-world data to solve problems, uncover trends, and support data-driven decision-making. Currently exploring opportunities in data analytics, machine learning, and software development.
+
+Outside of academics, I am the President of the Ithaca College International Club, focused on fostering an inclusive environment on campus.</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
