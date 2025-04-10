@@ -1,6 +1,6 @@
 <h1>Vanessa Mpofu</h1>
 
-<p>College Student/Aspiring Human-Computer Interaction Researcher</p>
+<p>College Student/Aspiring Data Scientist</p>
 
 <p>I’m a Computer Science student with a strong foundation in programming, statistics, and data analysis. I enjoy working with real-world data to solve problems, uncover trends, and support data-driven decision-making. Currently exploring opportunities in data analytics, machine learning, and software development.
 
