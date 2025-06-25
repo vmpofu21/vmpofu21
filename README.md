@@ -2,9 +2,7 @@
 
 <p>College Student/Aspiring Data Scientist</p>
 
-<p>I’m a Computer Science student with a strong foundation in programming, statistics, and data analysis. I enjoy working with real-world data to solve problems, uncover trends, and support data-driven decision-making. Currently exploring opportunities in data analytics, machine learning, and software development.
-
-Outside of academics, I am the President of the Ithaca College International Club, focused on fostering an inclusive environment on campus.</p>
+<p>I recently graduated with a Bachelor of Science in Computer Science and a minor in Data Science. I have strong skills in programming, data analysis, and problem-solving. I'm comfortable working with tools like Python, SQL, and Java, and I enjoy using data to find useful insights. I'm looking for an entry-level role in data science, data analytics, or software engineering where I can learn, grow, and help build real-world solutions.</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
