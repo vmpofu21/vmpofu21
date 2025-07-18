@@ -7,7 +7,7 @@ I recently graduated with a Bachelor of Science in Computer Science and a minor 
 Feel free to check out my projects, and let’s connect if you're interested in collaborating or discussing all things data! 🚀
 
 ## 🌐 Socials:
-![LinkedIn](https://www.linkedin.com/in/vanessampofu/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessampofu/)  
 
 ## 💻 Tech Stack
 
