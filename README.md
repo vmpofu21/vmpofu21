@@ -38,11 +38,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   
   <details open>
   <summary>Libraries & Frameworks</summary>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
- 
+![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
   </details>
   
   <details open>
