@@ -50,9 +50,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <details open>
   <summary>Data Science & Machine Learning</summary>
   
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
@@ -62,15 +60,14 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
   </details>
   
-  <details open>
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=flat&logo=microsoftpowerpoint&logoColor=white)
-  </details>
+
   <details open>
   <summary>DevOps & Tools</summary>
 
-  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
   </details>
   
@@ -78,7 +75,8 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   <details open>
   <summary>Data Visualization</summary>
     
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
   </details>
 
 
