@@ -7,7 +7,7 @@ I recently graduated with a Bachelor of Science in Computer Science and a minor 
 Feel free to check out my projects, and let’s connect if you're interested in collaborating or discussing all things data! 🚀
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/vanessampofu/)  
+![LinkedIn](https://www.linkedin.com/in/vanessampofu/)  
 
 ## 💻 Tech Stack
 
@@ -38,7 +38,6 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   
   <details open>
   <summary>Libraries & Frameworks</summary>
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
   </details>
   
