@@ -1,25 +1,84 @@
 <h1>Vanessa Mpofu</h1>
 
-<p>College Student/Aspiring Data Scientist</p>
 
-<p>I recently graduated with a Bachelor of Science in Computer Science and a minor in Data Science. I have strong skills in programming, data analysis, and problem-solving. I'm comfortable working with tools like Python, SQL, and Java, and I enjoy using data to find useful insights. I'm looking for an entry-level role in data science, data analytics, or software engineering where I can learn, grow, and help build real-world solutions.</p>
+## 💫 About Me:
+I recently graduated with a Bachelor of Science in Computer Science and a minor in Data Science. I have strong skills in programming, data analysis, and problem-solving. I'm comfortable working with tools like Python, SQL, and Java, and I enjoy using data to find useful insights. I'm looking for an entry-level role in data science, data analytics, or software engineering where I can learn, grow, and help build real-world solutions.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feel free to check out my projects, and let’s connect if you're interested in collaborating or discussing all things data! 🚀
 
+## 🌐 Socials:
+[![LinkedIn](https://www.linkedin.com/in/vanessampofu/)  
 
-<h1>Languages and Tools</h1>
+## 💻 Tech Stack
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Github" width="30px" color="white" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <details open>
+  <summary>Programming Languages</summary>
+  
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=ffdd54) 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
+  </details>
+  
+  <details open>
+  <summary>Cloud Platforms</summary>
+  
+  ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+  </details>
+  
+  <details open>
+  <summary>Databases</summary>
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) 
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+  </details>
+  
+  <details open>
+  <summary>Big Data Tools</summary> 
+    
+  ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) 
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) 
+  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) 
+  ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
+  </details>
+  
+  <details open>
+  <summary>Data Science & Machine Learning</summary>
+  
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) 
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+  </details>
+  
+  <details open>
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=flat&logo=microsoftpowerpoint&logoColor=white)
+  </details>
+  <details open>
+  <summary>DevOps & Tools</summary>
+
+  
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+  </details>
+  
+
+  <details open>
+  <summary>Data Visualization</summary>
+    
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+  </details>
 
 
