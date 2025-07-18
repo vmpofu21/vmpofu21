@@ -38,6 +38,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   
   <details open>
   <summary>Libraries & Frameworks</summary>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
   </details>
   
@@ -55,22 +56,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   
 
   
-  <details open>
-  <summary>Techniques</summary>
-  
-- Object-Oriented Programming (OOP)
-- Design Patterns
-- Agile & Scrum
-- CI/CD
-- Test-Driven Development (TDD)
-- Behavior-Driven Development (BDD)
-- Statistical Analysis
-- Predictive Modeling
-- Machine Learning
-- Data Wrangling & Preprocessing
-- Raster Analysis
-
-  </details>
+ 
   
 
 
