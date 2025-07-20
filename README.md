@@ -65,7 +65,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
 </details>
 
 
- <details> 
+<details> 
 <summary>Databases & Cloud Platforms</summary>
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
