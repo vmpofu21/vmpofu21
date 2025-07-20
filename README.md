@@ -38,7 +38,7 @@ Feel free to check out my projects, and let’s connect if you're interested in 
   
   <details open>
   <summary>Libraries & Frameworks</summary>
-![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
   </details>
   
